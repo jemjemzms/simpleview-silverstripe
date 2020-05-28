@@ -1,1 +1,1 @@
-# simpleview-silverstripe
+Simpleview API Exporter for Silverstripe

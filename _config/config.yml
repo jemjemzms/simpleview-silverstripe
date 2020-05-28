@@ -1,0 +1,17 @@
+---
+Name: silverstripe-simpleview
+---
+
+Simpleview:
+  api_url: 'SIMPLEVIEW API URL'
+  api_user_name: 'SIMPLEVIEW API USERNAME'
+  api_user_password: 'SIMPLEVIEW API PASWORD'
+  class: 'TO'
+  accommodation_id: '1'
+  food_id: '2'
+  activity_id: '3'
+  event_id: '4'
+  product_services_id: '5'
+  product_study_id: '6'
+  venue_id: '7'
+  product_shopping_id: '8'
